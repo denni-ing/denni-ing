@@ -12,3 +12,6 @@
 
 ### 🔸 [Modulazione e Demodulazione in MATLAB](https://github.com/denni-ing/modulazione-segnali)
 Modulazione e demodulazione di segnali in MATLAB – Verifica sperimentale SNR teorico vs pratico in uscita dal demodulatore
+
+### 🔸 [Progetti di Programmazione in C++](https://github.com/denni-ing/progetti_PPS/tree/main)
+Raccolta di esercizi e progetti realizzati durante il corso di Programmazione e Progettazione Software
