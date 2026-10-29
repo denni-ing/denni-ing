@@ -1,23 +1,13 @@
-# 👋 Ciao, sono Denni!
+# 👋 Hi, I'm Denni!
+🎓 Electronics and Communications Engineering Student at the University of Siena
+🔧 Telecommunications
 
-🎓 Studente di Ingegneria Informatica e dell’Informazione presso l’Università di Siena  
-🔧 Telecomunicazioni
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/denni-luchetti
+- Email: denniluchetti98@gmail.com
 
-## 📫 Contatti
-
-- LinkedIn: https://www.linkedin.com/in/denni-luchetti 
-- Email: denniluchetti98@gmail.com 
-
-## 📂 Progetti
+## 📂 Projects
 
 ### 🔸 [Modulazione e Demodulazione FM](https://github.com/denni-ing/modulazione-segnali)
 Modulazione e demodulazione di segnali in MATLAB – Verifica sperimentale SNR teorico vs pratico in uscita dal demodulatore
 
-### 🔸 [Progetti di Programmazione in C++](https://github.com/denni-ing/progetti_PPS/tree/main)
-Raccolta di esercizi e progetti realizzati durante il corso di Programmazione e Progettazione Software
-
-### 🔸 [Progetti di Programmazione in Matlab](https://github.com/denni-ing/Matlab)
-Raccolta di esercizi e progetti realizzati durante il corso di Calcolo Numerico
-
-### 🔸 [Progetti di Programmazione in C](https://github.com/denni-ing/Fondamenti_di_Programmazione)
-Raccolta di alcuni esercizi e progetti realizzati durante il corso di Fondamenti di programmazione
