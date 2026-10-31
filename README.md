@@ -14,10 +14,10 @@ With a core background in **Information Engineering** and a strict specializatio
 ---
 
 ## ⚙️ Core Technical Competencies
-* **Networking & Infrastructure:** HO, VHO, TA & Doppler Study.
-* **Electromagnetism & RF:** Antenna Theory, Radiation Patterns, Electromagnetic Wave Propagation, Microwave Engineering.
-* **Signal Processing & PHY Layer:** 5G/6G NTN Architecture, OFDM, Error Correction Coding.
-* **Languages & Tools:** MATLAB, LaTeX, Git, Cisco Packet Tracer, LTSpice.
+- **Networking & Infrastructure:** IP Routing & Switching, TCP/IP Stack, Network Topology Design, LAN/WAN Architectures.
+- **Electromagnetism & RF:** Antenna Theory, Radiation Patterns, Electromagnetic Wave Propagation, Microwave Engineering.
+- **Signal Processing, PHY & MAC Layers:** 5G/6G NTN Architecture, Mobility Management (HO, VHO), TA & Doppler Estimation, OFDM.
+- **Languages & Tools:** MATLAB, LaTeX, Git, Cisco Packet Tracer, LTSpice.
 
 ---
 
