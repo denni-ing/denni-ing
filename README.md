@@ -1,5 +1,5 @@
 # Denni Luchetti
-### BSc in Information Engineering | MSc Candidate in Communications for the Digital Society
+### BSc in Information Engineering | MSc Candidate in Telecommunications for the Digital Society
 
 <div align="left">
   <a href="https://www.linkedin.com/in/denni-luchetti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
