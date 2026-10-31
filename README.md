@@ -8,6 +8,6 @@
 
 ## 📂 Projects
 
-### 🔸 [Modulazione e Demodulazione FM](https://github.com/denni-ing/modulazione-segnali)
-Modulazione e demodulazione di segnali in MATLAB – Verifica sperimentale SNR teorico vs pratico in uscita dal demodulatore
+### 🔸 [TA Study for RACH-less VHO](https://github.com/denni-ing/TA-study-for-rachless-VHO)
+Autonomous Timing Advance and Doppler shift estimation for RACH-less Vertical Handover in 5G LEO Satellite Networks.
 
