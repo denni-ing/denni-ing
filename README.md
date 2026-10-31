@@ -23,12 +23,12 @@ With a core background in **Information Engineering** and a strict specializatio
 
 ## 🚀 Featured Applied Research
 
-### 🛰️ [TA & Doppler Estimation for RACH-less VHO](https://github.com/denni-ing/TA-study-for-rachless-VHO)
+### 🛰️ TA & Doppler Estimation for RACH-less VHO
+[![View Live Portfolio](https://img.shields.io/badge/🌐_View_Live_Portfolio-00599C?style=for-the-badge)](https://denni-ing.github.io/TA-study-for-rachless-VHO/) [![View Source Code](https://img.shields.io/badge/💻_View_Source_Code-181717?style=for-the-badge)](https://github.com/denni-ing/TA-study-for-rachless-VHO)
 *MATLAB Simulation Engine for 5G LEO Satellite Networks*
 * **Focus:** Demonstrates rigorous mathematical modeling and algorithm design for physical layer synchronization in dynamic RF environments.
-* 🔗 **[View Project Portfolio & Documentation](https://denni-ing.github.io/TA-study-for-rachless-VHO/)**
 
-### 📡 [Advanced Digital Communications](https://github.com/denni-ing/advanced-digital-communications)
+### 📡 Advanced Digital Communications
+[![Read the Manual](https://img.shields.io/badge/📖_Read_Compiled_Manual-00599C?style=for-the-badge)](https://denni-ing.github.io/advanced-digital-communications/) [![View LaTeX Source](https://img.shields.io/badge/💻_View_LaTeX_Source-181717?style=for-the-badge)](https://github.com/denni-ing/advanced-digital-communications)
 *Mathematical Foundations & Technical Reference Manual*
 * **Focus:** Technical documentation covering statistical signal processing, AWGN/Fading channels, and optimum receiver architectures.
-* 🔗 **[Read the Compiled Manual](https://denni-ing.github.io/advanced-digital-communications/)**
