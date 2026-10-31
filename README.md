@@ -29,6 +29,6 @@ With a core background in **Information Engineering** and a strict specializatio
 * **Focus:** Demonstrates rigorous mathematical modeling and algorithm design for physical layer synchronization in dynamic RF environments.
 
 ### 📡 Advanced Digital Communications
-[![Read the Manual](https://img.shields.io/badge/📖_Read_Compiled_Manual-00599C?style=for-the-badge)](https://denni-ing.github.io/advanced-digital-communications/) [![View LaTeX Source](https://img.shields.io/badge/💻_View_LaTeX_Source-181717?style=for-the-badge)](https://github.com/denni-ing/advanced-digital-communications)
+[![Read the Manual](https://img.shields.io/badge/📖_Read_Compiled_Manual-00599C?style=for-the-badge)](https://denni-ing.github.io/advanced-Digital-Communications/) [![View LaTeX Source](https://img.shields.io/badge/💻_View_LaTeX_Source-181717?style=for-the-badge)](https://github.com/denni-ing/advanced-Digital-Communications)
 *Mathematical Foundations & Technical Reference Manual*
 * **Focus:** Technical documentation covering statistical signal processing, AWGN/Fading channels, and optimum receiver architectures.
