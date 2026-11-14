@@ -1,4 +1,4 @@
-<img src="assets/banner.jfif" width="100%" alt="Denni Luchetti - Electronics & Communications Engineering">
+<img src="assets/banner.jpg" width="100%" alt="Denni Luchetti - Electronics & Communications Engineering">
 
 # Denni Luchetti
 ### BSc in Information Engineering | MSc Candidate in Telecommunications for the Digital Society
