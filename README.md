@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/denni-ing/denni-ing/main/assets/banner.jpg" width="100%" alt="Denni Luchetti - Electronics & Communications Engineering">
+<img src="https://raw.githubusercontent.com/denni-ing/denni-ing/main/assets/banner_profilo.png" width="100%" alt="Denni Luchetti - Electronics & Communications Engineering">
 
 # Denni Luchetti
 ### BSc in Information Engineering | MSc Candidate in Telecommunications for the Digital Society
