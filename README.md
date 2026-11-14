@@ -1,3 +1,7 @@
+<a href="https://linkedin.com/in/tuo-profilo-linkedin">
+  <img src="percorso/o/link/al/tuo/banner.jpg" width="100%" alt="Denni Luchetti - Electronics & Communications Engineering">
+</a>
+
 # Denni Luchetti
 ### BSc in Information Engineering | MSc Candidate in Telecommunications for the Digital Society
 
